@@ -1,21 +1,21 @@
 # IPC Controller PCB folder  
 
-|                 File                      |                                              Contents                                                                                |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| PMOD_CAN_Bus_Controller_prints.pdf        | PDF file containing PCB layout diagrams of the basic layers for building the PMOD CAN-Bus Controller board at home.                  |
-|                                           |         page 1 : Top layer (copper)                                                                                                  |
-|                                           |         page 2 : Inner S1 layer (copper)                                                                                             |
-|                                           |         page 3 : Inner S2 layer (copper)                                                                                             |
-|                                           |         page 4 : Bottom layer (copper)                                                                                               |
-|                                           |         page 5 : Top overlay (silkscreen)                                                                                            |
-|                                           |         page 6 : Bottom overlay (silkscreen)                                                                                         |
-|                                           |                                                                                                                                      |
-| PMOD_CAN_Bus_Controller_evaluation.pdf    | PDF file containing a combined view of the basic layers of the PCB layout diagrams for evaluating the PMOD CAN-Bus Controller board. |
-|                                           |         page 1 : Top layer on top                                                                                                    |
-|                                           |         page 2 : Bottom layer on top                                                                                                 |
-|                                           |         page 3 : Top layer on top, no silkscreen                                                                                     |
-|                                           |         page 4 : Bottom layer on top, no silkscreen                                                                                  |
-|                                           |                                                                                                                                      |
+|                   File                      |                                              Contents                                                                                |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| PMOD_CAN_Bus_Controller_PCB_prints.pdf      | PDF file containing PCB layout diagrams of the basic layers for building the PMOD CAN-Bus Controller board at home.                  |
+|                                             |         page 1 : Top layer (copper)                                                                                                  |
+|                                             |         page 2 : Inner S1 layer (copper)                                                                                             |
+|                                             |         page 3 : Inner S2 layer (copper)                                                                                             |
+|                                             |         page 4 : Bottom layer (copper)                                                                                               |
+|                                             |         page 5 : Top overlay (silkscreen)                                                                                            |
+|                                             |         page 6 : Bottom overlay (silkscreen)                                                                                         |
+|                                             |                                                                                                                                      |
+| PMOD_CAN_Bus_Controller_PCB_evaluation.pdf  | PDF file containing a combined view of the basic layers of the PCB layout diagrams for evaluating the PMOD CAN-Bus Controller board. |
+|                                             |         page 1 : Top layer on top                                                                                                    |
+|                                             |         page 2 : Bottom layer on top                                                                                                 |
+|                                             |         page 3 : Top layer on top, no silkscreen                                                                                     |
+|                                             |         page 4 : Bottom layer on top, no silkscreen                                                                                  |
+|                                             |                                                                                                                                      |
 
 
 
