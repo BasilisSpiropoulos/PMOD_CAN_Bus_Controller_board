@@ -1,13 +1,13 @@
 # IPC Controller PCB_3D_view folder  
 
-|                  File                   |                                     Contents                                                        |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------------|
-| IPC_Controller_PCB_3D.pdf               | PDF file containing static 3D views of the Instrument Panel Cluster Controller board.               |
-|                                         |         page 1 : Top view                                                                           |
-|                                         |         page 2 : Bottom view                                                                        |
-|                                         |                                                                                                     |
-| IPC_Controller_PCB_3D_rotate.pdf        | Interactive PDF file containing a dynamic 3D view of the Instrument Panel Cluster Controller board. |
-|                                         |                                                                                                     |
+|                  File                   |                                     Contents                                             |
+|-----------------------------------------|------------------------------------------------------------------------------------------|
+| PMOD_CAN_Bus_Controller_3D.pdf          | PDF file containing static 3D views of the PMOD CAN-Bus Controller board.                |
+|                                         |         page 1 : Top view                                                                |
+|                                         |         page 2 : Bottom view                                                             |
+|                                         |                                                                                          |
+| PMOD_CAN_BUS_Controller_3D_rotate.pdf   | Interactive PDF file containing a dynamic 3D view of the PMOD CAN-Bus Controller board.  |
+|                                         |                                                                                          |
 
 
 
