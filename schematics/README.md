@@ -1,8 +1,8 @@
 # IPC Controller schematics folder  
 
-|             File              |                                    Contents                                                  |
-|-------------------------------|----------------------------------------------------------------------------------------------|
-| IPC_Controller_schematics.pdf | PDF file containing the schematic diagrams of the Instrument Panel Cluster Controller board. |
+|                  File                  |                              Contents                                            |
+|----------------------------------------|----------------------------------------------------------------------------------|
+| PMOD_CAN_Bus_Controller_schematics.pdf | PDF file containing the schematic diagrams of the PMOD CAN-Bus Controller board. |
 
 
 
