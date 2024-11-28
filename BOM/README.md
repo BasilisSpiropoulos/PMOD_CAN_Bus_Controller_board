@@ -1,8 +1,8 @@
 # IPC Controller BOM folder  
 
-|             File             |                                    Contents                                                  |
-|------------------------------|----------------------------------------------------------------------------------------------|
-| IPC_Controller_Board_BOM.pdf | PDF file containing the Bill Of Materials for the Instrument Panel Cluster Controller board. |
+|              File               |                              Contents                                            |
+|---------------------------------|----------------------------------------------------------------------------------|
+| PMOD_CAN_BUS_Controller_BOM.pdf | PDF file containing the Bill Of Materials for the PMOD CAN-Bus Controller board. |
 
 
 
